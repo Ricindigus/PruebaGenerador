@@ -24,36 +24,42 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="15sp"
+            android:visibility="gone"
             android:text="subpregunta1"/>
         <CheckBox
             android:id="@+id/ck2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="15sp"
+            android:visibility="gone"
             android:text="subpregunta2"/>
         <CheckBox
             android:id="@+id/ck3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="15sp"
+            android:visibility="gone"
             android:text="subpregunta3"/>
         <CheckBox
             android:id="@+id/ck4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="15sp"
+            android:visibility="gone"
             android:text="subpregunta4"/>
         <CheckBox
             android:id="@+id/ck5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="15sp"
+            android:visibility="gone"
             android:text="subpregunta5"/>
         <CheckBox
             android:id="@+id/ck6"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="15sp"
+            android:visibility="gone"
             android:text="subpregunta6"/>
     </LinearLayout>
 </LinearLayout>
